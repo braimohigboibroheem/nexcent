@@ -1,0 +1,284 @@
+.kopo{background-color: #F5F7FA; 
+    margin-top: 0%;}
+
+.akoko{display: flex;
+    height: 60px;
+    align-items: center;
+justify-content: space-between;
+margin-top: 1 0px;
+}
+
+a{margin: 10px;
+text-decoration: none;
+color: black;}
+
+.cla{color: green;
+margin-right: 40px;}
+
+.gre{background-color: rgba(0, 128, 0, 0.568);
+color: white;
+margin-left: 15px;
+height: 30px;
+width: 70px;
+border: none;
+border-radius: 5px;}
+
+.nex{margin-left: 90px;}
+
+
+
+.home2{display: flex;
+
+margin: 30px;}
+
+
+.mix{font-size: 50px;
+width: 580px;}
+
+.b1{background-color:  rgba(0, 128, 0, 0.568);
+height: 50px;
+border: none;
+width: 120px;}
+
+.life{color: green;}
+
+.su{margin-left: 290px;}
+
+.dt{margin-left: 650px;}
+
+.third{background-color: white;}
+
+.cl{text-align: center;}
+.p2{text-align: center;}
+
+.clg{width: 970px;
+    height: 55px;
+    margin-left: 190px;
+}
+
+.clo{width: 800px;}
+
+.mng{text-align: center;}
+.p3{text-align: center;}
+
+
+.iconic{display: flex;
+    justify-content: space-around;
+}
+
+.ico{width:250px ;
+    height: 80px;
+    align-items: center;}
+
+    .p7{font-size: 20px;
+        width:98px}
+
+.fiki{margin-top: 170px;
+    display: flex;}
+
+.rafik{height: 433px;
+width: 442px;}
+
+
+.unseen{width: 440px;
+margin-left: 150px;}
+
+.the{font-size: 35px;
+margin-bottom: 0px;}
+
+        .b5{background-color: rgba(10, 245, 10, 0.438);
+            color: white;
+        height: 40px;
+        width: 100px;
+        }
+
+    .osunmo{display: flex;
+    background-color: #F5F7FA;
+    
+    }
+
+    .adj{display: flex;
+    margin: 40px;
+gap: 500px;
+margin-left: 70px;}
+
+
+    .sp2{color: green;}
+
+.rw{display: flex;
+gap: 60px;
+margin-right: 70px;
+width: 310px;
+height: 200px;
+
+justify-content: center;
+align-items: center;}
+
+.local{font-size: 40px;
+width: 400px;
+margin-bottom: 0px;}
+
+
+.b6{background-color: rgba(10, 245, 10, 0.438);}
+
+.odi{ margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.did{width: 550px;}
+
+.dd{font-size: 35px;}
+
+.b6{width: 110px;
+height: 40px;
+color: white;}
+
+.all{display: flex;
+justify-content: space-around;
+margin-top: 90px;
+background-color: #F5F7FA; }
+
+.ojuju{width: 326px;
+height: 326px;}
+
+
+
+.ile{color: green;
+font-size: larger;}
+
+.gbesumo{width: 650px;
+    height:  340px;
+}
+.ile{margin-bottom: 0px;
+font-size: x-large;}
+
+.p10{width: 456px;
+font-size: small;}
+
+.gbesu{width: 450px;}
+
+
+.care{text-align: center;
+margin-bottom: 0px;
+font-size: 36px;}
+
+.p11{text-align: center;
+width: 520px;
+margin-left: 390px;
+font-size: 16px;}
+
+
+
+.box1{ display: flex;
+    box-sizing: border-box;
+    
+margin-left: 90px;
+height: 340px;
+ }
+
+.kere{ margin-left: 20px;
+    width: 305px;
+height: 286px;}
+
+.itele{ position: absolute;
+    height: 136px;
+    margin-left: 62px;
+    margin-top: 180px;
+width: 220px;
+text-align: center;
+background-color: #F5F7FA;}
+
+.p12{ text-align: center;}
+
+    .daru{display: flex;
+    justify-content: center;}
+
+
+
+    .box2{ display: flex;
+        box-sizing: border-box;
+        
+    margin-left: 90px;
+    height: 340px;
+     }
+    
+    .kere{ margin-left: 20px;
+        width: 305px;
+    height: 286px;}
+    
+    .itele{ position: absolute;
+        height: 136px;
+        margin-left: 62px;
+        margin-top: 180px;
+    width: 220px;
+    text-align: center;
+    background-color: #F5F7FA;}
+    
+    .p12{ text-align: center;}
+    
+        .daru{display: flex;
+        justify-content: center;}
+    
+    .koyemi{display: flex;}
+    
+
+
+
+  .peleng{
+    background-color: #F5F7FA; }
+
+.pelen{text-align: center;
+font-size: 44px;
+width: 490px;
+margin-left: 35%;}
+
+
+.b9{background-color:
+    #1bb321c0;
+color: white;
+display:flex ;
+
+align-items: center;
+justify-content: center;
+width: 198px;
+height: 42px;
+gap: 10px;
+margin-left: 45%;}
+
+.rgh{height: 15px;}
+
+.footer{background-color: 
+    #263238; 
+    margin-top: 40px;
+display: flex;
+justify-content: space-around;}
+
+.pany{display: flex;
+    flex-direction: column;
+}
+
+a{color: #f5f7fa9f;}
+
+.copy{color: #f5f7fa9f;}
+.reser{color: #f5f7fa9f;}
+
+h6{color: white;
+font-size: 17px;}
+
+.llg{width: 120px;}
+
+.alh{margin-top: 45px;}
+
+.isi{position: absolute;
+    height: 15px;
+    margin-top: 3px;
+margin-left: 150px;}
+
+.fisi{display: flex;
+    
+    border: none;
+    position: relative;
+    height: 20px;
+background-color: rgba(255, 255, 255, 0.781);}
+
+.malu{display: flex;}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../figna ass"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "figmaSec"
+	}
+}
